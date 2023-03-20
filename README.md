@@ -4,10 +4,10 @@
 
 I'm an entrepreneurial tech leader who's passionate about software development. I lead teams of top-notch experts in creating innovative and effective software solutions for web and mobile applications. Areas of Expertise:
 
-• Lead technical aspects: architecture, vision, and implementation
-• Build strong partnerships with Business, Product Management, and Vendors
-• Use Agile Methodologies for effective Project & Program Management
-• Promote emerging technologies & trends.
+• Lead technical aspects: architecture, vision, and implementation  
+• Build strong partnerships with Business, Product Management, and Vendors  
+• Use Agile Methodologies for effective Project & Program Management  
+• Promote emerging technologies & trends.  
 
 With my strong technical leadership and expertise in a range of stacks such as LAMP, MERN, MEVN, Java, Flutter, and React Native, I'm a full-stack software developer with a proven track record of delivering high-quality products that meet clients' and users' needs.
 
