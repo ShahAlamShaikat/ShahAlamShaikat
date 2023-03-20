@@ -23,11 +23,11 @@ ____
     <table>
 	    <tr>
     	    <td style="padding:10px">
-        	 <img align="center" alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShahAlamShuvro&show_icons=true&theme=tokyonight" />
+        	 <img align="center" alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShahAlamShaikat&show_icons=true&theme=tokyonight" />
       	    </td>
 	    <td style="padding:10px"> </td>
             <td style="padding:10px">
-            	<img align="center"  alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahAlamShuvro&show_icons=true" />
+            	<img align="center"  alt="Hasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahAlamShaikat&show_icons=true" />
             </td>
         </tr>
     </table>
@@ -47,6 +47,6 @@ ____
 <a href="https://www.twitter.com/ShahAlamShaikat/">
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/twitter.png" alt="Twitter"/>
 </a>
-<a href="https://www.github.com/ShahAlamShuvro/">
+<a href="https://www.github.com/ShahAlamShaikat/">
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/github.png" alt="GitHub"/>
 </a>
